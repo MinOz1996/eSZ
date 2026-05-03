@@ -1,0 +1,14 @@
+{
+    "Modules":  {
+                    "Cleaner":  {
+                                    "Enabled":  true
+                                },
+                    "Identity":  {
+                                     "Enabled":  true
+                                 }
+                },
+    "Environment":  "Production",
+    "LogPath":  "C:\\Users\\Admin\\Desktop\\home\\ubuntu\\AegisShroud\\logs\\AegisShroud.log",
+    "Version":  "Sovereign Edition 1.0",
+    "LogLevel":  "INFO"
+}
