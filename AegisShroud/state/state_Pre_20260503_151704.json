@@ -1,0 +1,15 @@
+{
+    "Timestamp":  "2026-05-03 15:17:04",
+    "Registry":  {
+                     "ProductId":  "VJA7K-PIUFM-4RXMM-ZT8MP",
+                     "ComputerName":  "WIN-GF1MQ",
+                     "MachineGuid":  "EC7C3B7F-CEE9-4B51-BE59-F8C520AAA17A"
+                 },
+    "Network":  [
+                    {
+                        "Name":  "Realtek Gaming 2.5GbE Family Controller",
+                        "MAC":  "1C:A1:FC:06:F2:0E",
+                        "DeviceID":  "9"
+                    }
+                ]
+}
