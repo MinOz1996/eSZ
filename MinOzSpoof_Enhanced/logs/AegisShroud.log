@@ -1,0 +1,182 @@
+﻿2026-05-04 07:48:12.304 [INFO] [Session:6bd45e89] [Thread:18] Initializing configuration...
+2026-05-04 07:48:12.647 [INFO] [Session:6bd45e89] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\config\settings.json
+2026-05-04 07:48:12.694 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] AegisShroud v2.0 Started [Version=Sovereign Edition 2.0 (Expert)]
+2026-05-04 07:48:17.256 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] VIEW PROFILE
+2026-05-04 07:48:17.288 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 07:48:19.631 [WARN] [Session:6bd45e89] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:48:46.363 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] FULL PROTECTION
+2026-05-04 07:48:49.815 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Starting Aegis Execution Pipeline...
+2026-05-04 07:48:49.815 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] [Step 1/6] Validating Environment...
+2026-05-04 07:48:49.831 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Environment validated: Administrator privileges confirmed.
+2026-05-04 07:48:49.831 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] [Step 2/6] Capturing Pre-execution State & Backup...
+2026-05-04 07:48:49.831 [INFO] [Session:6bd45e89] [Thread:18] Creating comprehensive system backup...
+2026-05-04 07:48:50.128 [WARN] [Session:6bd45e89] [Thread:18] Exception backing up HKLM:\SYSTEM\CurrentControlSet\Enum\DISK: ERROR: The system was unable to find the specified registry key or value.
+2026-05-04 07:48:50.206 [WARN] [Session:6bd45e89] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:48:50.315 [INFO] [Session:6bd45e89] [Thread:18] Saved Pre snapshot: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\state\AegisShroud_State_Pre_Latest.json [Properties=15]
+2026-05-04 07:48:50.315 [INFO] [Session:6bd45e89] [Thread:18] Backup complete: 14 successful, 1 failed
+2026-05-04 07:48:50.347 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Pre-execution state captured and system backed up.
+2026-05-04 07:48:50.347 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] [Step 3/6] Executing Modular Tasks...
+2026-05-04 07:48:50.347 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Generating Brutal Virtual Identity...
+2026-05-04 07:48:51.331 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Generated identity: ASRock B650 STEEL LEGEND WIFI
+2026-05-04 07:48:51.331 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Applying Brutal Identity Layers...
+2026-05-04 07:48:51.596 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Identity spoofing complete: 13 succeeded, 0 failed
+2026-05-04 07:48:51.596 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 07:48:51.612 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] EXECUTING BRUTAL DEEP TRACE CLEANER...
+2026-05-04 07:48:51.612 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 07:48:51.628 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 07:48:51.643 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 07:48:58.452 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 07:49:01.876 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] WMI Repository Sanitization SKIPPED (prevents TM crash).
+2026-05-04 07:49:01.876 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] BRUTAL DEEP CLEANING COMPLETED SUCCESSFULLY.
+2026-05-04 07:49:01.876 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 07:49:01.876 [INFO] [Session:6bd45e89] [Thread:18] Enabling persistence mechanism...
+2026-05-04 07:49:02.173 [INFO] [Session:6bd45e89] [Thread:18] Persistence enabled: MicrosoftEdgeUpdateTaskMachineCore
+2026-05-04 07:49:02.173 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 07:49:02.173 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] All modular tasks processed.
+2026-05-04 07:49:02.173 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] [Step 4/6] Verifying Results...
+2026-05-04 07:49:02.173 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Verification logic completed.
+2026-05-04 07:49:02.173 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] [Step 5/6] Capturing Post-execution State...
+2026-05-04 07:49:02.204 [WARN] [Session:6bd45e89] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:49:02.251 [INFO] [Session:6bd45e89] [Thread:18] Saved Post snapshot: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\state\AegisShroud_State_Post_Latest.json [Properties=15]
+2026-05-04 07:49:02.251 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Post-execution state captured.
+2026-05-04 07:49:02.251 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] [Step 6/6] Pipeline execution finished.
+2026-05-04 07:49:02.251 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Aegis Execution Pipeline Completed Successfully.
+2026-05-04 07:49:05.672 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] VIEW PROFILE
+2026-05-04 07:49:05.672 [INFO] [Session:6bd45e89] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 07:49:05.735 [WARN] [Session:6bd45e89] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:51:34.709 [ERROR] [Session:84435ba1] [Thread:18] [MinOz] Admin required
+2026-05-04 07:53:58.186 [INFO] [Session:a329cbf9] [Thread:18] Initializing configuration...
+2026-05-04 07:53:58.467 [INFO] [Session:a329cbf9] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\config\settings.json
+2026-05-04 07:53:58.498 [INFO] [Session:a329cbf9] [Thread:18] [MinOz] AegisShroud v2.0 Started [Version=Sovereign Edition 2.0 (Expert)]
+2026-05-04 07:54:05.023 [INFO] [Session:7f92ec25] [Thread:18] Initializing configuration...
+2026-05-04 07:54:05.258 [INFO] [Session:7f92ec25] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\config\settings.json
+2026-05-04 07:54:05.289 [INFO] [Session:7f92ec25] [Thread:18] [MinOz] AegisShroud v2.0 Started [Version=Sovereign Edition 2.0 (Expert)]
+2026-05-04 07:54:10.174 [INFO] [Session:1901ddf0] [Thread:18] Initializing configuration...
+2026-05-04 07:54:10.392 [INFO] [Session:1901ddf0] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\config\settings.json
+2026-05-04 07:54:10.424 [INFO] [Session:1901ddf0] [Thread:18] [MinOz] AegisShroud v2.0 Started [Version=Sovereign Edition 2.0 (Expert)]
+2026-05-04 07:54:16.558 [INFO] [Session:1901ddf0] [Thread:18] [MinOz] VIEW PROFILE
+2026-05-04 07:54:16.586 [INFO] [Session:1901ddf0] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 07:54:18.559 [WARN] [Session:1901ddf0] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:56:17.693 [ERROR] [Session:9ac659e9] [Thread:18] [MinOz] Admin required
+2026-05-04 07:56:37.474 [INFO] [Session:b0183d57] [Thread:18] Initializing configuration...
+2026-05-04 07:56:37.724 [INFO] [Session:b0183d57] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\config\settings.json
+2026-05-04 07:56:37.755 [INFO] [Session:b0183d57] [Thread:18] [MinOz] AegisShroud v2.0 Started [Version=Sovereign Edition 2.0 (Expert)]
+2026-05-04 07:56:39.568 [INFO] [Session:b0183d57] [Thread:18] [MinOz] VIEW PROFILE
+2026-05-04 07:56:39.614 [INFO] [Session:b0183d57] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 07:56:42.317 [WARN] [Session:b0183d57] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:57:16.132 [INFO] [Session:ed4c759b] [Thread:18] Initializing configuration...
+2026-05-04 07:57:16.429 [INFO] [Session:ed4c759b] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\config\settings.json
+2026-05-04 07:57:16.476 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] AegisShroud v2.0 Started [Version=Sovereign Edition 2.0 (Expert)]
+2026-05-04 07:57:17.007 [WARN] [Session:ed4c759b] [Thread:18] Invalid: 
+2026-05-04 07:57:19.398 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] RESTORE
+2026-05-04 07:57:21.538 [INFO] [Session:ed4c759b] [Thread:18] Restoring original system identity...
+2026-05-04 07:57:21.663 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:22.163 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:22.679 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:23.179 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg after 3 attempts
+2026-05-04 07:57:23.179 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:23.694 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:24.201 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:24.711 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg after 3 attempts
+2026-05-04 07:57:24.726 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:25.242 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:25.757 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:26.273 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg after 3 attempts
+2026-05-04 07:57:26.273 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:26.773 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:27.289 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:27.804 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg after 3 attempts
+2026-05-04 07:57:27.804 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:28.320 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:28.835 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:29.351 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SOFTWARE_Microsoft_Cryptography.reg after 3 attempts
+2026-05-04 07:57:29.351 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:29.866 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:30.382 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:30.898 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg after 3 attempts
+2026-05-04 07:57:30.898 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:31.413 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:31.929 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:32.429 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg after 3 attempts
+2026-05-04 07:57:32.429 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:32.944 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:33.444 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:33.960 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg after 3 attempts
+2026-05-04 07:57:33.960 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:34.460 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:34.975 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:35.491 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg after 3 attempts
+2026-05-04 07:57:35.491 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:35.991 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:36.507 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:37.022 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg after 3 attempts
+2026-05-04 07:57:37.022 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:37.522 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:38.038 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:38.553 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg after 3 attempts
+2026-05-04 07:57:38.553 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:39.069 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:39.584 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:40.100 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg after 3 attempts
+2026-05-04 07:57:40.100 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:40.616 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:41.131 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:41.647 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg after 3 attempts
+2026-05-04 07:57:41.647 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:42.162 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:42.678 [WARN] [Session:ed4c759b] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 07:57:43.193 [ERROR] [Session:ed4c759b] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg after 3 attempts
+2026-05-04 07:57:43.193 [INFO] [Session:ed4c759b] [Thread:18] Registry restore complete: 0 successful, 14 failed
+2026-05-04 07:57:44.974 [INFO] [Session:ed4c759b] [Thread:18] Persistence removed: MicrosoftEdgeUpdateTaskMachineCore
+2026-05-04 07:57:44.990 [INFO] [Session:ed4c759b] [Thread:18] System restore completed successfully
+2026-05-04 07:57:48.724 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] VIEW PROFILE
+2026-05-04 07:57:48.740 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 07:57:49.943 [WARN] [Session:ed4c759b] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:58:06.524 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] FULL PROTECTION
+2026-05-04 07:58:08.259 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Starting Aegis Execution Pipeline...
+2026-05-04 07:58:08.259 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] [Step 1/6] Validating Environment...
+2026-05-04 07:58:08.274 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Environment validated: Administrator privileges confirmed.
+2026-05-04 07:58:08.274 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] [Step 2/6] Capturing Pre-execution State & Backup...
+2026-05-04 07:58:08.274 [INFO] [Session:ed4c759b] [Thread:18] Creating comprehensive system backup...
+2026-05-04 07:58:08.509 [WARN] [Session:ed4c759b] [Thread:18] Exception backing up HKLM:\SYSTEM\CurrentControlSet\Enum\DISK: ERROR: The system was unable to find the specified registry key or value.
+2026-05-04 07:58:08.587 [WARN] [Session:ed4c759b] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:58:08.665 [INFO] [Session:ed4c759b] [Thread:18] Saved Pre snapshot: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\state\AegisShroud_State_Pre_Latest.json [Properties=15]
+2026-05-04 07:58:08.665 [INFO] [Session:ed4c759b] [Thread:18] Backup complete: 14 successful, 1 failed
+2026-05-04 07:58:08.665 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Pre-execution state captured and system backed up.
+2026-05-04 07:58:08.665 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] [Step 3/6] Executing Modular Tasks...
+2026-05-04 07:58:08.680 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Generating Brutal Virtual Identity...
+2026-05-04 07:58:09.883 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Generated identity: EVGA Corporation Z790 DARK K|NGP|N
+2026-05-04 07:58:09.883 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Applying Brutal Identity Layers...
+2026-05-04 07:58:10.305 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Identity spoofing complete: 13 succeeded, 0 failed
+2026-05-04 07:58:10.305 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 07:58:10.321 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] EXECUTING BRUTAL DEEP TRACE CLEANER...
+2026-05-04 07:58:10.337 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 07:58:10.368 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 07:58:10.368 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 07:58:17.028 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 07:58:20.328 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] WMI Repository Sanitization SKIPPED (prevents TM crash).
+2026-05-04 07:58:20.328 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] BRUTAL DEEP CLEANING COMPLETED SUCCESSFULLY.
+2026-05-04 07:58:20.328 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 07:58:20.328 [INFO] [Session:ed4c759b] [Thread:18] Enabling persistence mechanism...
+2026-05-04 07:58:20.515 [INFO] [Session:ed4c759b] [Thread:18] Persistence enabled: MicrosoftEdgeUpdateTaskMachineCore
+2026-05-04 07:58:20.515 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 07:58:20.515 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] All modular tasks processed.
+2026-05-04 07:58:20.515 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] [Step 4/6] Verifying Results...
+2026-05-04 07:58:20.515 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Verification logic completed.
+2026-05-04 07:58:20.515 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] [Step 5/6] Capturing Post-execution State...
+2026-05-04 07:58:20.547 [WARN] [Session:ed4c759b] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:58:20.593 [INFO] [Session:ed4c759b] [Thread:18] Saved Post snapshot: C:\Users\Admin\Desktop\MinOzSpoof_Enhanced\state\AegisShroud_State_Post_Latest.json [Properties=15]
+2026-05-04 07:58:20.609 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Post-execution state captured.
+2026-05-04 07:58:20.609 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] [Step 6/6] Pipeline execution finished.
+2026-05-04 07:58:20.609 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Aegis Execution Pipeline Completed Successfully.
+2026-05-04 07:58:23.906 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] VIEW PROFILE
+2026-05-04 07:58:23.906 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 07:58:23.952 [WARN] [Session:ed4c759b] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 07:58:36.295 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] DEEP CLEAN
+2026-05-04 07:58:38.748 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] EXECUTING BRUTAL DEEP TRACE CLEANER...
+2026-05-04 07:58:38.779 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 07:58:38.795 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 07:58:38.810 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 07:58:42.410 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 07:58:45.491 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] WMI Repository Sanitization SKIPPED (prevents TM crash).
+2026-05-04 07:58:45.491 [INFO] [Session:ed4c759b] [Thread:18] [MinOz] BRUTAL DEEP CLEANING COMPLETED SUCCESSFULLY.
