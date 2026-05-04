@@ -1,0 +1,318 @@
+﻿2026-05-04 12:46:15.318 [INFO] [Session:1b7dc3f0] [Thread:18] Initializing configuration...
+2026-05-04 12:46:15.478 [INFO] [Session:1b7dc3f0] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 12:46:15.498 [INFO] [Session:1b7dc3f0] [Thread:18] AegisShroud Sovereign Edition Started.
+2026-05-04 12:47:48.348 [INFO] [Session:0bb5b4e7] [Thread:18] Initializing configuration...
+2026-05-04 12:47:48.507 [INFO] [Session:0bb5b4e7] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 12:47:48.528 [INFO] [Session:0bb5b4e7] [Thread:18] AegisShroud Sovereign Edition Started.
+2026-05-04 12:47:57.199 [INFO] [Session:0bb5b4e7] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 12:47:57.205 [INFO] [Session:0bb5b4e7] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 12:47:58.502 [WARN] [Session:0bb5b4e7] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 12:49:21.017 [INFO] [Session:4ebfbdd3] [Thread:18] Initializing configuration...
+2026-05-04 12:49:21.182 [INFO] [Session:4ebfbdd3] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 12:49:21.201 [INFO] [Session:4ebfbdd3] [Thread:18] AegisShroud Sovereign Edition Started.
+2026-05-04 12:50:11.738 [INFO] [Session:4ebfbdd3] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 12:50:11.743 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 12:50:12.569 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 12:54:20.695 [INFO] [Session:4ebfbdd3] [Thread:18] User selected DEEP CLEAN TRACES ONLY.
+2026-05-04 12:54:20.712 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating Kernel Trace Obliteration Protocol...
+2026-05-04 12:54:22.090 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Kernel Trace Obliteration complete: 2 obliterations, 0 failures
+2026-05-04 12:54:22.098 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Starting Aegis Execution Pipeline...
+2026-05-04 12:54:22.099 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 1/6] Validating Environment...
+2026-05-04 12:54:22.102 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Environment validated: Administrator privileges confirmed.
+2026-05-04 12:54:22.103 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 2/6] Capturing Pre-execution State & Backup...
+2026-05-04 12:54:22.106 [INFO] [Session:4ebfbdd3] [Thread:18] Creating comprehensive system backup...
+2026-05-04 12:54:22.307 [WARN] [Session:4ebfbdd3] [Thread:18] Exception backing up HKLM:\SYSTEM\CurrentControlSet\Enum\DISK: ERROR: The system was unable to find the specified registry key or value.
+2026-05-04 12:54:22.413 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 12:54:22.484 [INFO] [Session:4ebfbdd3] [Thread:18] Saved Pre snapshot: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\state\AegisShroud_State_Pre_Latest.json [Properties=15]
+2026-05-04 12:54:22.490 [INFO] [Session:4ebfbdd3] [Thread:18] Backup complete: 14 successful, 1 failed
+2026-05-04 12:54:22.500 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Pre-execution state captured and system backed up.
+2026-05-04 12:54:22.502 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 3/6] Executing Modular Tasks...
+2026-05-04 12:54:22.510 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] EXECUTING 2026 APEX DEEP TRACE CLEANER...
+2026-05-04 12:54:22.531 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 12:54:22.550 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 12:54:22.560 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 12:54:28.907 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 12:55:40.336 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] WMI Repository clean skipped (prevents Task Manager closure).
+2026-05-04 12:55:40.338 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] 2026 APEX DEEP CLEANING COMPLETED SUCCESSFULLY.
+2026-05-04 12:55:40.339 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 12:55:40.340 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] All modular tasks processed.
+2026-05-04 12:55:40.341 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 4/6] Verifying Results...
+2026-05-04 12:55:40.342 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Verification logic completed.
+2026-05-04 12:55:40.343 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 5/6] Capturing Post-execution State...
+2026-05-04 12:55:40.410 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 12:55:40.444 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 12:55:40.447 [INFO] [Session:4ebfbdd3] [Thread:18] Saved Post snapshot: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\state\AegisShroud_State_Post_Latest.json [Properties=15]
+2026-05-04 12:55:40.449 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Post-execution state captured.
+2026-05-04 12:55:40.450 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 6/6] Pipeline execution finished.
+2026-05-04 12:55:40.451 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Aegis Execution Pipeline Completed Successfully.
+2026-05-04 12:58:04.049 [INFO] [Session:4ebfbdd3] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 12:58:04.050 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 12:58:04.098 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 12:58:04.126 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 12:58:52.806 [INFO] [Session:4ebfbdd3] [Thread:18] User selected RESTORE ORIGINAL IDENTITY.
+2026-05-04 12:58:52.807 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating GHOST Protocol removal...
+2026-05-04 12:58:55.144 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Removing registry obfuscation...
+2026-05-04 12:58:55.490 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Registry obfuscation removed
+2026-05-04 12:58:55.492 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] GHOST Protocol cleanup complete
+2026-05-04 12:58:55.495 [INFO] [Session:4ebfbdd3] [Thread:18] Restoring original system identity...
+2026-05-04 12:58:55.510 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:56.021 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:56.535 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:57.049 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg after 3 attempts
+2026-05-04 12:58:57.058 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:57.572 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:58.092 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:58.605 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg after 3 attempts
+2026-05-04 12:58:58.612 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:59.130 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 12:58:59.647 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:00.157 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg after 3 attempts
+2026-05-04 12:59:00.164 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:00.678 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:01.198 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:01.707 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg after 3 attempts
+2026-05-04 12:59:01.756 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:02.280 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:02.793 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:03.304 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SOFTWARE_Microsoft_Cryptography.reg after 3 attempts
+2026-05-04 12:59:03.312 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:03.827 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:04.346 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:04.855 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg after 3 attempts
+2026-05-04 12:59:04.863 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:05.376 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:05.890 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:06.406 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg after 3 attempts
+2026-05-04 12:59:06.415 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:06.926 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:07.442 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:07.957 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg after 3 attempts
+2026-05-04 12:59:07.969 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:08.481 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:08.998 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:09.509 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg after 3 attempts
+2026-05-04 12:59:09.516 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:10.031 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:10.551 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:11.063 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg after 3 attempts
+2026-05-04 12:59:11.074 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:11.587 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:12.109 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:12.617 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg after 3 attempts
+2026-05-04 12:59:12.625 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:13.138 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:13.657 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:14.171 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg after 3 attempts
+2026-05-04 12:59:14.178 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:14.694 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:15.213 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:15.725 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg after 3 attempts
+2026-05-04 12:59:15.739 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:16.248 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:16.767 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 12:59:17.275 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg after 3 attempts
+2026-05-04 12:59:17.277 [INFO] [Session:4ebfbdd3] [Thread:18] Registry restore complete: 0 successful, 14 failed
+2026-05-04 12:59:17.616 [INFO] [Session:4ebfbdd3] [Thread:18] System restore completed successfully
+2026-05-04 12:59:25.154 [INFO] [Session:4ebfbdd3] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 12:59:25.155 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 12:59:25.200 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 12:59:25.225 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 13:00:53.897 [INFO] [Session:4ebfbdd3] [Thread:18] User selected GHOST PROTOCOL FULL.
+2026-05-04 13:00:53.898 [INFO] [Session:4ebfbdd3] [Thread:18] Creating comprehensive system backup...
+2026-05-04 13:00:54.068 [WARN] [Session:4ebfbdd3] [Thread:18] Exception backing up HKLM:\SYSTEM\CurrentControlSet\Enum\DISK: ERROR: The system was unable to find the specified registry key or value.
+2026-05-04 13:00:54.133 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 13:00:54.159 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 13:00:54.162 [INFO] [Session:4ebfbdd3] [Thread:18] Saved Pre snapshot: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\state\AegisShroud_State_Pre_Latest.json [Properties=15]
+2026-05-04 13:00:54.163 [INFO] [Session:4ebfbdd3] [Thread:18] Backup complete: 14 successful, 1 failed
+2026-05-04 13:00:54.167 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Generating 2026 Apex Virtual Identity...
+2026-05-04 13:00:55.128 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Applying 2026 Apex Identity Layers...
+2026-05-04 13:00:55.150 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Writing PERMANENT BIOS keys...
+2026-05-04 13:00:55.158 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] PERMANENT BIOS keys written successfully
+2026-05-04 13:00:55.159 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Masking CPU...
+2026-05-04 13:00:55.165 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Masking GPU...
+2026-05-04 13:00:55.177 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Masking TPM & Platform Security Identifiers...
+2026-05-04 13:00:55.190 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Executing Deep Disk Geometry Masking...
+2026-05-04 13:00:55.199 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] 2026 Apex Identity Layers Applied Successfully.
+2026-05-04 13:00:55.211 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating WMI Mutation Protocol...
+2026-05-04 13:00:55.339 [WARN] [Session:4ebfbdd3] [Thread:18] [GHOST] BaseBoard mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:00:55.380 [WARN] [Session:4ebfbdd3] [Thread:18] [GHOST] BIOS mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:00:56.457 [WARN] [Session:4ebfbdd3] [Thread:18] [GHOST] Processor mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:00:56.482 [WARN] [Session:4ebfbdd3] [Thread:18] [GHOST] VideoController mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:00:56.562 [WARN] [Session:4ebfbdd3] [Thread:18] [GHOST] DiskDrive mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:00:56.672 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] WMI Mutation complete: 2 mutations, 5 failures
+2026-05-04 13:00:56.683 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating Registry Obfuscation Protocol...
+2026-05-04 13:00:57.284 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Registry Obfuscation complete: 21 obfuscations, 0 failures
+2026-05-04 13:00:57.286 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating Kernel Trace Obliteration Protocol...
+2026-05-04 13:00:58.581 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Kernel Trace Obliteration complete: 3 obliterations, 0 failures
+2026-05-04 13:00:58.584 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating Process Ghosting Protocol...
+2026-05-04 13:00:58.836 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Process Ghosting complete
+2026-05-04 13:02:10.385 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating Smart Persistence Protocol...
+2026-05-04 13:02:10.507 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Smart Persistence enabled
+2026-05-04 13:02:10.508 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] EXECUTING 2026 APEX DEEP TRACE CLEANER...
+2026-05-04 13:02:10.519 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 13:02:10.524 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 13:02:10.533 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 13:02:17.410 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 13:02:23.070 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] WMI Repository clean skipped (prevents Task Manager closure).
+2026-05-04 13:02:23.072 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] 2026 APEX DEEP CLEANING COMPLETED SUCCESSFULLY.
+2026-05-04 13:02:30.430 [INFO] [Session:4ebfbdd3] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 13:02:30.431 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 13:02:30.500 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 13:02:30.526 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 13:05:15.034 [INFO] [Session:4ebfbdd3] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 13:05:15.036 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 13:05:15.070 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 13:05:15.098 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 13:05:34.734 [INFO] [Session:4ebfbdd3] [Thread:18] User selected DEEP CLEAN TRACES ONLY.
+2026-05-04 13:05:34.736 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating Kernel Trace Obliteration Protocol...
+2026-05-04 13:05:36.014 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Kernel Trace Obliteration complete: 3 obliterations, 0 failures
+2026-05-04 13:05:36.017 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Starting Aegis Execution Pipeline...
+2026-05-04 13:05:36.018 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 1/6] Validating Environment...
+2026-05-04 13:05:36.019 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Environment validated: Administrator privileges confirmed.
+2026-05-04 13:05:36.020 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 2/6] Capturing Pre-execution State & Backup...
+2026-05-04 13:05:36.021 [INFO] [Session:4ebfbdd3] [Thread:18] Creating comprehensive system backup...
+2026-05-04 13:06:31.947 [INFO] [Session:4ebfbdd3] [Thread:18] Backup skipped - existing backup preserved
+2026-05-04 13:06:31.950 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Pre-execution state captured and system backed up.
+2026-05-04 13:06:31.951 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 3/6] Executing Modular Tasks...
+2026-05-04 13:06:31.952 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] EXECUTING 2026 APEX DEEP TRACE CLEANER...
+2026-05-04 13:06:31.964 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 13:06:31.969 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 13:06:31.977 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 13:06:38.906 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 13:06:44.479 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] WMI Repository clean skipped (prevents Task Manager closure).
+2026-05-04 13:06:44.481 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] 2026 APEX DEEP CLEANING COMPLETED SUCCESSFULLY.
+2026-05-04 13:06:44.483 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Task executed successfully.
+2026-05-04 13:06:44.484 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] All modular tasks processed.
+2026-05-04 13:06:44.485 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 4/6] Verifying Results...
+2026-05-04 13:06:44.486 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Verification logic completed.
+2026-05-04 13:06:44.487 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 5/6] Capturing Post-execution State...
+2026-05-04 13:06:44.549 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 13:06:44.576 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 13:06:44.579 [INFO] [Session:4ebfbdd3] [Thread:18] Saved Post snapshot: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\state\AegisShroud_State_Post_Latest.json [Properties=15]
+2026-05-04 13:06:44.581 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Post-execution state captured.
+2026-05-04 13:06:44.582 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] [Step 6/6] Pipeline execution finished.
+2026-05-04 13:06:44.583 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Aegis Execution Pipeline Completed Successfully.
+2026-05-04 13:06:54.355 [INFO] [Session:4ebfbdd3] [Thread:18] User selected RESTORE ORIGINAL IDENTITY.
+2026-05-04 13:06:54.356 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Initiating GHOST Protocol removal...
+2026-05-04 13:06:56.183 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Removing registry obfuscation...
+2026-05-04 13:06:56.205 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] Registry obfuscation removed
+2026-05-04 13:06:56.206 [INFO] [Session:4ebfbdd3] [Thread:18] [GHOST] GHOST Protocol cleanup complete
+2026-05-04 13:06:56.207 [INFO] [Session:4ebfbdd3] [Thread:18] Restoring original system identity...
+2026-05-04 13:06:56.215 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:56.728 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:57.244 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:57.755 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKCU_Software_Classes_Local Settings_Software_Microsoft_Windows_Shell_MuiCache.reg after 3 attempts
+2026-05-04 13:06:57.764 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:58.280 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:58.794 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:59.311 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKCU_Software_Microsoft_Windows_CurrentVersion_Explorer_MountPoints2.reg after 3 attempts
+2026-05-04 13:06:59.335 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 13:06:59.863 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:00.383 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:00.896 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_HARDWARE_DESCRIPTION_System_BIOS.reg after 3 attempts
+2026-05-04 13:07:00.903 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:01.420 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:01.940 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:02.450 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_HARDWARE_DESCRIPTION_System_CentralProcessor_0.reg after 3 attempts
+2026-05-04 13:07:02.458 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:02.971 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:03.487 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SOFTWARE_Microsoft_Cryptography.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:04.001 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SOFTWARE_Microsoft_Cryptography.reg after 3 attempts
+2026-05-04 13:07:04.010 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:04.526 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:05.045 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:05.559 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SOFTWARE_Microsoft_Windows NT_CurrentVersion.reg after 3 attempts
+2026-05-04 13:07:05.567 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:06.085 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:06.602 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:07.118 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_Class_{4D36E972-E325-11CE-BFC1-08002BE10318}.reg after 3 attempts
+2026-05-04 13:07:07.126 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:07.639 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:08.157 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:08.672 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_ComputerName_ComputerName.reg after 3 attempts
+2026-05-04 13:07:08.679 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:09.196 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:09.716 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:10.224 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Control_Session Manager_AppCompatCache.reg after 3 attempts
+2026-05-04 13:07:10.232 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:10.751 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:11.264 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:11.777 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_DISPLAY.reg after 3 attempts
+2026-05-04 13:07:11.785 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:12.301 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:12.818 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:13.332 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_STORAGE.reg after 3 attempts
+2026-05-04 13:07:13.340 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:13.860 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:14.378 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:14.890 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_USB.reg after 3 attempts
+2026-05-04 13:07:14.898 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:15.416 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:15.936 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:16.449 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Enum_USBSTOR.reg after 3 attempts
+2026-05-04 13:07:16.457 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 1 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:16.973 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 2 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:17.492 [WARN] [Session:4ebfbdd3] [Thread:18] Exception on attempt 3 for HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg: ERROR: Invalid syntax.
+2026-05-04 13:07:18.005 [ERROR] [Session:4ebfbdd3] [Thread:18] Failed to restore HKLM_SYSTEM_CurrentControlSet_Services_Tcpip_Parameters.reg after 3 attempts
+2026-05-04 13:07:18.007 [INFO] [Session:4ebfbdd3] [Thread:18] Registry restore complete: 0 successful, 14 failed
+2026-05-04 13:07:18.258 [INFO] [Session:4ebfbdd3] [Thread:18] System restore completed successfully
+2026-05-04 13:07:35.967 [INFO] [Session:4ebfbdd3] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 13:07:35.969 [INFO] [Session:4ebfbdd3] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 13:07:35.991 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 13:07:36.019 [WARN] [Session:4ebfbdd3] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 13:14:03.419 [INFO] [Session:c3ab6094] [Thread:18] Initializing configuration...
+2026-05-04 13:14:03.569 [INFO] [Session:c3ab6094] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 13:14:03.590 [INFO] [Session:c3ab6094] [Thread:18] AegisShroud Sovereign Edition Started.
+2026-05-04 13:14:08.631 [INFO] [Session:c3ab6094] [Thread:18] User selected GHOST PROTOCOL FULL.
+2026-05-04 13:14:08.637 [INFO] [Session:c3ab6094] [Thread:18] Creating comprehensive system backup...
+2026-05-04 13:14:08.871 [WARN] [Session:c3ab6094] [Thread:18] Exception backing up HKLM:\SYSTEM\CurrentControlSet\Enum\DISK: ERROR: The system was unable to find the specified registry key or value.
+2026-05-04 13:14:10.194 [WARN] [Session:c3ab6094] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 13:14:10.365 [INFO] [Session:c3ab6094] [Thread:18] Saved Pre snapshot: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\state\AegisShroud_State_Pre_Latest.json [Properties=15]
+2026-05-04 13:14:10.372 [INFO] [Session:c3ab6094] [Thread:18] Backup complete: 14 successful, 1 failed
+2026-05-04 13:14:10.378 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Generating 2026 Apex Virtual Identity...
+2026-05-04 13:14:11.415 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Applying 2026 Apex Identity Layers...
+2026-05-04 13:14:11.439 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Writing PERMANENT BIOS keys...
+2026-05-04 13:14:11.451 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] PERMANENT BIOS keys written successfully
+2026-05-04 13:14:11.453 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Masking CPU...
+2026-05-04 13:14:11.457 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Masking GPU...
+2026-05-04 13:14:11.468 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Masking TPM & Platform Security Identifiers...
+2026-05-04 13:14:11.484 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Executing Deep Disk Geometry Masking...
+2026-05-04 13:14:11.491 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] 2026 Apex Identity Layers Applied Successfully.
+2026-05-04 13:14:11.503 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Initiating WMI Mutation Protocol...
+2026-05-04 13:14:11.577 [WARN] [Session:c3ab6094] [Thread:18] [GHOST] BaseBoard mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:14:11.649 [WARN] [Session:c3ab6094] [Thread:18] [GHOST] BIOS mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:14:12.716 [WARN] [Session:c3ab6094] [Thread:18] [GHOST] Processor mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:14:12.740 [WARN] [Session:c3ab6094] [Thread:18] [GHOST] VideoController mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:14:12.820 [WARN] [Session:c3ab6094] [Thread:18] [GHOST] DiskDrive mutation failed: Exception calling "Put" with "0" argument(s): "Provider is not capable of the attempted operation "
+2026-05-04 13:14:12.930 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] WMI Mutation complete: 2 mutations, 5 failures
+2026-05-04 13:14:12.941 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Initiating Registry Obfuscation Protocol...
+2026-05-04 13:14:13.522 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Registry Obfuscation complete: 21 obfuscations, 0 failures
+2026-05-04 13:14:13.528 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Initiating Kernel Trace Obliteration Protocol...
+2026-05-04 13:14:14.887 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Kernel Trace Obliteration complete: 3 obliterations, 0 failures
+2026-05-04 13:14:14.890 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Initiating Process Ghosting Protocol...
+2026-05-04 13:14:15.059 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Process Ghosting complete
+2026-05-04 13:14:17.411 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Initiating Smart Persistence Protocol...
+2026-05-04 13:14:17.588 [INFO] [Session:c3ab6094] [Thread:18] [GHOST] Smart Persistence enabled
+2026-05-04 13:14:17.593 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] EXECUTING 2026 APEX DEEP TRACE CLEANER...
+2026-05-04 13:14:17.605 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] PRIVACY SETTINGS HARDENED (ANTI-TELEMETRY).
+2026-05-04 13:14:17.615 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Kernel-Mode & Driver Traces Purged.
+2026-05-04 13:14:17.625 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Hardware Fingerprint Artifacts Cleared.
+2026-05-04 13:14:24.905 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Brutal Network Identity Reset Completed.
+2026-05-04 13:14:30.466 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] WMI Repository clean skipped (prevents Task Manager closure).
+2026-05-04 13:14:30.467 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] 2026 APEX DEEP CLEANING COMPLETED SUCCESSFULLY.
+2026-05-04 13:14:47.950 [INFO] [Session:c3ab6094] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 13:14:47.954 [INFO] [Session:c3ab6094] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 13:14:48.035 [WARN] [Session:c3ab6094] [Thread:18] Failed to capture VolumeId: null or empty
+2026-05-04 13:14:48.065 [WARN] [Session:c3ab6094] [Thread:18] Failed to capture DiskModel: The property 'Model' cannot be found on this object. Verify that the property exists.
+2026-05-04 16:42:14.629 [INFO] [Session:626fee82] [Thread:18] Initializing configuration...
+2026-05-04 16:42:14.794 [INFO] [Session:626fee82] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 16:42:14.819 [INFO] [Session:626fee82] [Thread:18] AegisShroud Sovereign Edition Started.
+2026-05-04 16:42:21.293 [INFO] [Session:626fee82] [Thread:18] User selected VIEW CURRENT PROFILE.
+2026-05-04 16:42:21.299 [INFO] [Session:626fee82] [Thread:18] [MinOz] Displaying Profile...
+2026-05-04 16:42:26.804 [WARN] [Session:626fee82] [Thread:18] Failed to capture VolumeId: Property "SerialNumber" cannot be found.
+2026-05-04 16:45:43.745 [INFO] [Session:c2633f11] [Thread:17] Initializing configuration...
+2026-05-04 16:45:44.279 [INFO] [Session:c2633f11] [Thread:17] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 16:45:44.368 [INFO] [Session:c2633f11] [Thread:17] AegisShroud Sovereign Edition Started.
+2026-05-04 16:46:09.869 [INFO] [Session:8d7f9b55] [Thread:18] Initializing configuration...
+2026-05-04 16:46:10.024 [INFO] [Session:8d7f9b55] [Thread:18] Configuration loaded from: C:\Users\Admin\Desktop\MinOz_GHOST_PROTOCOL\config\settings.json
+2026-05-04 16:46:10.044 [INFO] [Session:8d7f9b55] [Thread:18] AegisShroud Sovereign Edition Started.
