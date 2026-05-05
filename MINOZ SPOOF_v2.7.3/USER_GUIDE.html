@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MinOz GHOST PROTOCOL — คู่มือการใช้งาน</title>
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --bg2: #111;
+    --purple: #9b59b6;
+    --purple-dark: #6c3483;
+    --purple-light: #d7bde2;
+    --cyan: #00e5ff;
+    --green: #00ff88;
+    --yellow: #ffd700;
+    --red: #ff4444;
+    --gray: #888;
+    --white: #e8e8e8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--white); font-family: 'Consolas', 'Courier New', monospace; padding: 24px; line-height: 1.7; }
+  h1 { color: var(--green); font-size: 2rem; text-align: center; margin: 20px 0 4px; letter-spacing: 4px; }
+  .subtitle { text-align: center; color: var(--purple-light); margin-bottom: 32px; font-size: .9rem; }
+  .box { border: 1px solid var(--purple-dark); border-radius: 4px; margin: 20px 0; padding: 20px 24px; background: var(--bg2); }
+  .box-title { color: var(--purple); font-size: 1.05rem; font-weight: bold; margin-bottom: 14px; padding-bottom: 8px; border-bottom: 1px solid var(--purple-dark); letter-spacing: 1px; }
+  h3 { color: var(--cyan); margin: 18px 0 8px; font-size: .95rem; }
+  p, li { color: var(--white); font-size: .88rem; }
+  ul, ol { padding-left: 20px; }
+  li { margin: 5px 0; }
+  .step { display: flex; gap: 16px; align-items: flex-start; margin: 12px 0; padding: 14px 16px; background: #161616; border-left: 3px solid var(--purple); border-radius: 3px; }
+  .step-num { background: var(--purple-dark); color: var(--white); width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; font-size: .9rem; }
+  .step-content { flex: 1; }
+  .step-content strong { color: var(--yellow); display: block; margin-bottom: 4px; }
+  .key { display: inline-block; background: var(--purple-dark); color: var(--white); padding: 2px 10px; border-radius: 3px; font-size: .85rem; margin: 2px; }
+  .warn { background: #1a0000; border: 1px solid var(--red); border-radius: 4px; padding: 12px 16px; margin: 12px 0; color: var(--red); font-size: .87rem; }
+  .warn::before { content: "⚠  "; }
+  .ok { background: #001a0a; border: 1px solid var(--green); border-radius: 4px; padding: 12px 16px; margin: 12px 0; color: var(--green); font-size: .87rem; }
+  .ok::before { content: "✓  "; }
+  .status-green { color: var(--green); font-weight: bold; }
+  .status-red { color: var(--red); font-weight: bold; }
+  .status-yellow { color: var(--yellow); font-weight: bold; }
+  .status-cyan { color: var(--cyan); font-weight: bold; }
+  table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: .85rem; }
+  th { background: var(--purple-dark); color: var(--white); padding: 8px 12px; text-align: left; }
+  td { padding: 7px 12px; border-bottom: 1px solid #222; }
+  tr:hover td { background: #161616; }
+  code { background: #1a1a1a; color: var(--cyan); padding: 2px 7px; border-radius: 3px; font-size: .85rem; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 700px) { .grid { grid-template-columns: 1fr; } }
+  .badge { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: .78rem; margin: 2px; }
+  .badge-green { background: #004422; color: var(--green); border: 1px solid var(--green); }
+  .badge-red { background: #440000; color: var(--red); border: 1px solid var(--red); }
+  .badge-yellow { background: #332200; color: var(--yellow); border: 1px solid var(--yellow); }
+  hr { border: none; border-top: 1px solid var(--purple-dark); margin: 28px 0; }
+  .logo { text-align: center; color: var(--green); font-size: .75rem; line-height: 1.3; letter-spacing: 2px; margin: 10px 0 20px; white-space: pre; }
+</style>
+</head>
+<body>
+
+<div class="logo">███╗   ███╗ ██╗ ███╗  ██╗  ██████╗  ███████╗
+████╗ ████║ ██║ ████╗ ██║ ██╔═══██╗    ███╔╝
+██╔████╔██║ ██║ ██╔██╗██║ ██║   ██║   ███╔╝ 
+██║╚██╔╝██║ ██║ ██║╚████║ ██║   ██║  ███╔╝  
+██║ ╚═╝ ██║ ██║ ██║ ╚███║ ╚██████╔╝ ███████╗
+╚═╝     ╚═╝ ╚═╝ ╚═╝  ╚══╝  ╚═════╝  ╚══════╝</div>
+
+<h1>GHOST PROTOCOL 2026</h1>
+<div class="subtitle">คู่มือการใช้งานฉบับสมบูรณ์ — DEVELOPED BY: MinOz</div>
+
+<!-- ═══ ภาพรวม ═══════════════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">📋 ภาพรวม — เมนูและความหมาย</div>
+  <table>
+    <tr><th>Option</th><th>ชื่อ</th><th>ทำอะไร</th><th>Effectiveness</th></tr>
+    <tr><td><span class="status-cyan">[1]</span></td><td>Ghost Protocol Full</td><td>Spoof ครบทุก Module</td><td><span class="badge badge-green">100%</span></td></tr>
+    <tr><td><span class="status-green">[2]</span></td><td>Standard Protection</td><td>Spoof เฉพาะ Registry</td><td><span class="badge badge-yellow">70%</span></td></tr>
+    <tr><td style="color:#9b59b6">[3]</td><td>Restore Identity</td><td>คืนค่าทุกอย่างกลับปกติ</td><td>—</td></tr>
+    <tr><td style="color:#ffd700">[4]</td><td>View Current Profile</td><td>ดูสถานะ ORIG → VIRTUAL</td><td>—</td></tr>
+    <tr><td><span class="status-red">[5]</span></td><td>Deep Clean Traces</td><td>ลบ Traces ทั้งหมด</td><td>—</td></tr>
+    <tr><td style="color:#888">[6]</td><td>Exit</td><td>ออกจากโปรแกรม</td><td>—</td></tr>
+  </table>
+</div>
+
+<!-- ═══ การใช้งานครั้งแรก ══════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">🚀 การใช้งานครั้งแรก (First Time)</div>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div class="step-content">
+      <strong>เปิดโปรแกรมด้วยสิทธิ์ Admin</strong>
+      คลิกขวาที่ <code>START.bat</code> → เลือก <b>Run as Administrator</b><br>
+      หน้าต่างจะขึ้นกรอบสีม่วง พร้อม MINOZ Logo สีเขียว
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">2</div>
+    <div class="step-content">
+      <strong>ดูค่าเดิมก่อน — กด [4] VIEW</strong>
+      กด <span class="key">4</span> เพื่อดู ORIGINAL values<br>
+      <span class="status-cyan">แคปหน้าจอเก็บไว้!</span> — จะใช้ตรวจสอบภายหลัง<br>
+      สถานะจะแสดง <span class="status-cyan">[ORIGINAL]</span> ทุกค่า
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">3</div>
+    <div class="step-content">
+      <strong>เลือก Mode ที่ต้องการ</strong>
+      <span class="key">1</span> <b>Ghost Full</b> — แนะนำ, ครบทุก module (100%)<br>
+      <span class="key">2</span> <b>Standard</b> — เร็วกว่า, Registry เท่านั้น (70%)
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">4</div>
+    <div class="step-content">
+      <strong>[1] Ghost Full — Reboot Prompt จะปรากฏ</strong>
+      หลัง spoof เสร็จ โปรแกรมจะถาม:<br>
+      <span class="status-yellow">Restart computer now? [Y/N]</span><br>
+      กด <span class="key">Y</span> → รีเครื่องอัตโนมัติใน 5 วินาที<br>
+      กด <span class="key">N</span> → รีเองทีหลัง (บางค่าอาจยังไม่มีผล)
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">5</div>
+    <div class="step-content">
+      <strong>หลัง Reboot — ตรวจสอบ [4] VIEW อีกครั้ง</strong>
+      เปิดโปรแกรมใหม่ → กด <span class="key">4</span><br>
+      สถานะกรอบสีม่วงจะแสดง <span class="status-green">●  Active Spoofing : Ghost Full</span><br>
+      ค่าที่เปลี่ยนได้จะแสดง <span class="status-green">[SUCCESS]</span>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">6</div>
+    <div class="step-content">
+      <strong>เล่นเกม / ใช้งานได้เลย</strong>
+      ปิดโปรแกรม เปิดเกม — สถานะจะยังคงอยู่แม้ปิดโปรแกรมไปแล้ว
+    </div>
+  </div>
+</div>
+
+<!-- ═══ สถานะ ════════════════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">💡 ความหมายของสถานะในกรอบ</div>
+  <div class="grid">
+    <div>
+      <h3>กรอบสถานะ</h3>
+      <p>🔴 <span class="status-red">○  ORIGINAL IDENTITY</span><br>ยังไม่ได้ทำ spoof</p>
+      <br>
+      <p>🟢 <span class="status-green">●  Active Spoofing : Ghost Full</span><br>ใช้ [1] Ghost Protocol แล้ว</p>
+      <br>
+      <p>🟢 <span class="status-green">●  Active Spoofing : Standard</span><br>ใช้ [2] Standard แล้ว</p>
+    </div>
+    <div>
+      <h3>สถานะใน [4] VIEW</h3>
+      <p><span class="status-green">[SUCCESS]</span> — ค่าเปลี่ยนแล้ว active</p>
+      <br>
+      <p><span class="status-yellow">[PENDING REBOOT]</span> — เขียนแล้ว รอรีเครื่อง</p>
+      <br>
+      <p><span class="status-cyan">[ORIGINAL]</span> — ค่าจริง ยังไม่ spoof</p>
+      <br>
+      <p style="color:#888">[UNCHANGED]</span> — user-mode limit</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ Lock ════════════════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">🔒 ระบบ Lock — ป้องกันการ Spoof ซ้อน</div>
+  <p>หลังจาก Spoof ด้วย <span class="key">1</span> หรือ <span class="key">2</span> แล้ว:</p>
+  <br>
+  <ul>
+    <li>ทั้ง [1] และ [2] จะถูก <b>ล็อค</b> อัตโนมัติ</li>
+    <li>ต้องกด <span class="key">3</span> <b>RESTORE</b> ก่อน ถึงจะปลดล็อค</li>
+    <li>ป้องกัน Backup ถูก Overwrite ด้วยค่าปลอม</li>
+  </ul>
+  <br>
+  <div class="ok">ถ้าเห็น LOCKED ให้กด [3] Restore → Reboot → Spoof ใหม่</div>
+</div>
+
+<!-- ═══ Restore ════════════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">🔄 การ Restore — คืนค่าปกติ</div>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div class="step-content">
+      <strong>เปิดโปรแกรม (Run as Admin) → กด [3]</strong>
+      เลือก <span class="key">3</span> RESTORE IDENTITY
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-num">2</div>
+    <div class="step-content">
+      <strong>รอ Restore สำเร็จ</strong>
+      โปรแกรมจะคืน Registry ทุกค่ากลับเป็นของเดิม
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-num">3</div>
+    <div class="step-content">
+      <strong>Reboot เครื่อง</strong>
+      รีเครื่องเพื่อให้ค่าทุกอย่างมีผล
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-num">4</div>
+    <div class="step-content">
+      <strong>ตรวจสอบ [4] VIEW</strong>
+      สถานะควรกลับเป็น <span class="status-cyan">[ORIGINAL]</span> ทุกค่า
+    </div>
+  </div>
+
+  <div class="warn">ห้ามกด [1] หรือ [2] ซ้ำก่อน Restore — จะได้ Backup Prompt ให้เลือก SKIP เสมอ</div>
+</div>
+
+<!-- ═══ Deep Clean ═════════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">🧹 Deep Clean Traces [5]</div>
+  <p>ใช้เพื่อลบ Trace ที่อาจถูกตรวจพบ โดยไม่ต้อง Spoof</p>
+  <br>
+  <ul>
+    <li>ล้าง Prefetch, Temp files, ShimCache</li>
+    <li>ล้าง USN Journal (NTFS Change Log)</li>
+    <li>ล้าง Event Logs</li>
+    <li>ล้าง MountPoints2</li>
+  </ul>
+  <br>
+  <div class="ok">ใช้ [5] ก่อน Spoof ถ้าเคยใช้ Cheat/Tool อื่นมาก่อน</div>
+</div>
+
+<!-- ═══ Backup Warning ═════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">⚠ Backup Warning — เลือก SKIP เสมอ!</div>
+  <p>ถ้ากด [1] หรือ [2] ขณะที่มี Backup อยู่แล้ว:</p>
+  <br>
+  <div class="warn" style="margin-bottom:10px">โปรแกรมจะถาม [1] SKIP / [2] OVERWRITE / [3] CANCEL</div>
+  <ul>
+    <li><span class="status-green">[1] SKIP</span> — เก็บ Backup เดิม (ORIGINAL) ไว้ ✓ <b>เลือกอันนี้เสมอ!</b></li>
+    <li><span class="status-red">[2] OVERWRITE</span> — Backup จะเป็นค่าปลอม → Restore จะได้ค่าปลอมกลับมา!</li>
+    <li>[3] CANCEL — ยกเลิก operation</li>
+  </ul>
+</div>
+
+<!-- ═══ Quick Reference ════════════════════════════════════════════════ -->
+<div class="box">
+  <div class="box-title">⚡ Quick Reference — Flow Chart</div>
+  <div style="font-family:monospace; font-size:.83rem; color:#bbb; line-height:2;">
+    <span style="color:#9b59b6">เปิดครั้งแรก</span><br>
+    &nbsp;&nbsp;→ [4] ดูค่าเดิม + แคปหน้าจอ<br>
+    &nbsp;&nbsp;→ [1] Ghost Full (แนะนำ)<br>
+    &nbsp;&nbsp;→ กด <span style="color:#00ff88">Y</span> Reboot<br>
+    &nbsp;&nbsp;→ [4] ตรวจสอบ<br>
+    &nbsp;&nbsp;→ เล่นเกมได้!<br>
+    <br>
+    <span style="color:#9b59b6">เมื่อต้องการคืนค่า</span><br>
+    &nbsp;&nbsp;→ [3] Restore<br>
+    &nbsp;&nbsp;→ Reboot<br>
+    &nbsp;&nbsp;→ [4] ตรวจสอบ
+  </div>
+</div>
+
+<hr>
+<p style="text-align:center; color:#555; font-size:.8rem;">MinOz GHOST PROTOCOL 2026 — v2.5.0 — คู่มือฉบับสมบูรณ์</p>
+<br>
+</body>
+</html>
