@@ -1,0 +1,56 @@
+
+            ███╗   ███╗  ██╗  ███╗  ██╗   ██████╗  ███████╗
+            ████╗ ████║  ██║  ████╗ ██║  ██╔═══██╗    ███╔╝
+            ██╔████╔██║  ██║  ██╔██╗██║  ██║   ██║   ███╔╝
+            ██║╚██╔╝██║  ██║  ██║╚████║  ██║   ██║  ███╔╝
+            ██║ ╚═╝ ██║  ██║  ██║ ╚███║  ╚██████╔╝  ███████╗
+            ╚═╝     ╚═╝  ╚═╝  ╚═╝  ╚══╝   ╚═════╝   ╚══════╝
+
+  ┌──────────────────────────────────────────────────────────────┐
+  [char]0x2502                                                              [char]0x2502
+  [char]0x2502        AEGIS SHROUD  --  GHOST PROTOCOL EDITION 2026         [char]0x2502
+  [char]0x2502            DEVELOPED BY: MinOz  |  v2.7.3 (BRUTAL)           [char]0x2502
+  ├──────────────────────────────────────────────────────────────┤
+  [char]0x2502                                                              [char]0x2502
+  [char]0x2502           Effectiveness: 100%  .  Anti-Cheat Proof           [char]0x2502
+  [char]0x2502                    05/05/2026     15:51:42                   [char]0x2502
+  [char]0x2502                                                              [char]0x2502
+  ├──────────────────────────────────────────────────────────────┤
+  [char]0x2502                                                              [char]0x2502
+  [char]0x2502          [!] SPOOFED IDENTITY ACTIVE (GHOST)                 [char]0x2502
+  [char]0x2502                                                              [char]0x2502
+  └──────────────────────────────────────────────────────────────┘
+
+  [1]  GHOST PROTOCOL FULL   100% - All Modules Active
+  [2]  STANDARD PROTECTION   70%  - Registry Only
+  [3.1] RESTORE IDENTITY      Remove All Mods & Restore Original
+  [4]  VIEW CURRENT PROFILE  Detailed Identity Report
+  [5]  DEEP CLEAN TRACES     Obliterate All Traces
+  [6]  EXIT                  Quit
+
+  ──────────────────────────────────────────────────────────────────
+
+  Select option [1-6] : 2
+  [+] Initializing Standard Protection...
+
+Actions            : {MSFT_TaskExecAction}
+Author             :
+Date               :
+Description        :
+Documentation      :
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor :
+Settings           : MSFT_TaskSettings3
+Source             :
+State              : Ready
+TaskName           : MicrosoftEdgeUpdateTaskMachineCore
+TaskPath           : \
+Triggers           : {MSFT_TaskLogonTrigger}
+URI                : \MicrosoftEdgeUpdateTaskMachineCore
+Version            :
+PSComputerName     :
+
+[15:51:45] [INFO] State updated: IsSpoofed=True, LastSpoofType=Standard
+  [SUCCESS] Standard Protection applied. A reboot is required.
+  Press Enter to continue...:
+

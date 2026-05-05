@@ -1,0 +1,44 @@
+
+            ███╗   ███╗  ██╗  ███╗  ██╗   ██████╗  ███████╗
+            ████╗ ████║  ██║  ████╗ ██║  ██╔═══██╗    ███╔╝
+            ██╔████╔██║  ██║  ██╔██╗██║  ██║   ██║   ███╔╝
+            ██║╚██╔╝██║  ██║  ██║╚████║  ██║   ██║  ███╔╝
+            ██║ ╚═╝ ██║  ██║  ██║ ╚███║  ╚██████╔╝  ███████╗
+            ╚═╝     ╚═╝  ╚═╝  ╚═╝  ╚══╝   ╚═════╝   ╚══════╝
+
+  ┌──────────────────────────────────────────────────────────────┐
+  [char]0x2502                                                              [char]0x2502
+  [char]0x2502        AEGIS SHROUD  --  GHOST PROTOCOL EDITION 2026         [char]0x2502
+  [char]0x2502            DEVELOPED BY: MinOz  |  v2.7.3 (BRUTAL)           [char]0x2502
+  ├──────────────────────────────────────────────────────────────┤
+  [char]0x2502                                                              [char]0x2502
+  [char]0x2502           Effectiveness: 100%  .  Anti-Cheat Proof           [char]0x2502
+  [char]0x2502                    05/05/2026     15:53:08                   [char]0x2502
+  [char]0x2502                                                              [char]0x2502
+  ├──────────────────────────────────────────────────────────────┤
+  [char]0x2502                                                              [char]0x2502
+  [char]0x2502          o  ORIGINAL IDENTITY  (No Active Spoofing)          [char]0x2502
+  [char]0x2502                                                              [char]0x2502
+  └──────────────────────────────────────────────────────────────┘
+
+  [1]  GHOST PROTOCOL FULL   100% - All Modules Active
+  [2]  STANDARD PROTECTION   70%  - Registry Only
+  [3.1] RESTORE IDENTITY      Remove All Mods & Restore Original
+  [4]  VIEW CURRENT PROFILE  Detailed Identity Report
+  [5]  DEEP CLEAN TRACES     Obliterate All Traces
+  [6]  EXIT                  Quit
+
+  ──────────────────────────────────────────────────────────────────
+
+  Select option [1-6] : 5
+  [+] Obliterating system traces...
+Invoke-AegisCleaner : A positional parameter cannot be found that accepts argument 'True'.
+At C:\Users\Admin\Desktop\MINOZ SPOOF_v2.7.3\Aegis.ps1:66 char:13
++             Invoke-AegisCleaner -DeepClean $true
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Invoke-AegisCleaner], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Invoke-AegisCleaner
+
+  [SUCCESS] System traces have been cleaned.
+  Press Enter to continue...:
+
