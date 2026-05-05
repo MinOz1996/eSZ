@@ -1,0 +1,36 @@
+﻿{
+    "LogLevel":  "INFO",
+    "Version":  "Sovereign Edition 2.0 (Expert)",
+    "Safety":  {
+                   "MaxRollbackAttempts":  3,
+                   "BackupBeforeOperate":  true,
+                   "RequireConfirmation":  true
+               },
+    "Modules":  {
+                    "Cleaner":  {
+                                    "EventLogClear":  true,
+                                    "NetworkReset":  true,
+                                    "DeepClean":  true,
+                                    "Enabled":  true
+                                },
+                    "Identity":  {
+                                     "ProfileDatabase":  "default",
+                                     "RandomSeed":  null,
+                                     "Enabled":  true
+                                 }
+                },
+    "Environment":  "Production",
+    "Features":  {
+                     "Persistence":  true,
+                     "StealthMode":  true,
+                     "AutoRollback":  true,
+                     "DryRun":  false,
+                     "Verification":  true
+                 },
+    "LogPath":  "C:\\Users\\Admin\\Desktop\\MINOZ SPOOF_v2.7.3\\logs\\AegisShroud.log",
+    "Performance":  {
+                        "MaxConcurrency":  4,
+                        "ParallelExecution":  false,
+                        "BatchRegistryOps":  true
+                    }
+}
