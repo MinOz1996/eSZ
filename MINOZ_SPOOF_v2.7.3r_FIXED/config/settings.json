@@ -1,0 +1,28 @@
+{
+  "Version": "Sovereign Edition 2.0 (Expert)",
+  "Environment": "Production",
+  "LogLevel": "INFO",
+  "Modules": {
+    "Identity": {
+      "Enabled": true
+    },
+    "Cleaner": {
+      "Enabled": true,
+      "DeepClean": true,
+      "NetworkReset": true,
+      "EventLogClear": true
+    }
+  },
+  "Features": {
+    "DryRun": false,
+    "Verification": true,
+    "AutoRollback": true,
+    "Persistence": true,
+    "StealthMode": true
+  },
+  "Safety": {
+    "RequireConfirmation": true,
+    "BackupBeforeOperate": true,
+    "MaxRollbackAttempts": 3
+  }
+}

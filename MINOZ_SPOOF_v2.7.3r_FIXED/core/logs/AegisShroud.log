@@ -1,0 +1,4 @@
+﻿2026-05-05 16:06:16.955 [INFO] [Session:e9ddf28e] [Thread:18] === New Log Session Started ===
+2026-05-05 16:06:17.171 [INFO] [Session:e9ddf28e] [Thread:18] Initializing configuration...
+2026-05-05 16:06:17.276 [INFO] [Session:e9ddf28e] [Thread:18] Default configuration created at: C:\Users\Admin\Desktop\MINOZ SPOOF_v2.7.3\core\config\settings.json
+2026-05-05 16:06:17.318 [WARN] [Session:e9ddf28e] [Thread:18] Failed to read or parse state file. Returning default state. Error: Cannot bind argument to parameter 'Path' because it is null.
