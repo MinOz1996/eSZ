@@ -1,0 +1,20 @@
+{
+    "BiosVersion":  "1503",
+    "GPU":  "NVIDIA GeForce RTX 4090",
+    "DiskSerial":  "DISK-SN-DEFAULT",
+    "Manufacturer":  "ASUSTeK COMPUTER INC.",
+    "BiosDate":  "02/14/2024",
+    "Chassis":  "Desktop",
+    "MachineGuid":  "F1779587-FC6C-4B09-B9B3-8A8B108D151A",
+    "DiskModel":  "Standard Disk Drive",
+    "Product":  "ROG MAXIMUS Z790 DARK HERO",
+    "UUID":  "a884c0e6-87c0-4823-9ab1-4866802dbbf8",
+    "BiosVendor":  "American Megatrends Inc.",
+    "ComputerName":  "DESKTOP-1PWLENK",
+    "Serial":  "JG3QN20QULRVGQ",
+    "TPM_EK":  "TPM-ACTIVE-VERIFIED",
+    "ProductId":  "BCU5A-EO60P-UPI6V-NF9C0",
+    "VolumeId":  "C0E1-F291",
+    "MacAddress":  "04:42:1A:01:00:94",
+    "CPU":  "Intel(R) Core(TM) i9-14900K"
+}
